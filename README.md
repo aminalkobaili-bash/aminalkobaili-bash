@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Привет,+я+будущий+DevOps+😎;SQL,+Linux,+и+немного+магии;Пытаюсь+не+сломать+сервер+🚀" />
 </h1>
