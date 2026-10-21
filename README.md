@@ -1,98 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Привет,+я+будущий+DevOps+😎;SQL,+Linux,+и+немного+магии;Пытаюсь+не+сломать+сервер+🚀" />
-</h1>
+# Amin Alkobaili — Junior DevOps Engineer
 
-<h3 align="center">🛠️ DevOps Junior in progress | 🐧 Linux enjoyer | 🧠 SQL survivor</h3>
+Linux, Bash-автоматизация, сети, мониторинг (Prometheus/Grafana), PostgreSQL.
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,postgresql,prometheus,grafana,docker,git,github,python,flask" />
+</p>
 
-<div align="center">
-  <a href="mailto:amin.alkobaili@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://t.me/warex26">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+## Stack
 
----
+- **OS / Shell:** Ubuntu, Bash
+- **Networking:** iptables, NAT (SNAT/DNAT), DHCP, static routing, tcpdump, iperf3, SSH tunneling
+- **Monitoring:** Prometheus, Grafana, GoAccess
+- **Databases:** PostgreSQL, MS SQL, SQL
+- **Dev / CI:** Git, GitHub, Docker, Python (Flask, SQLAlchemy)
 
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-</div>
+## Projects
 
----
+| Project | Что сделано | Stack |
+|---|---|---|
+| [linux-administration-basics](https://github.com/aminalkobaili-bash/linux-administration-basics) | установка ОС, пользователи, настройка сети, сервисы, логи | Ubuntu, Bash |
+| [linux-networking](https://github.com/aminalkobaili-bash/linux-networking) | многоузловая сеть: static routing, NAT, DHCP, firewall, SSH tunneling | iptables, netplan, tcpdump, iperf3 |
+| [linux-system-monitoring](https://github.com/aminalkobaili-bash/linux-system-monitoring) | Bash-скрипты сбора системной информации и логов, метрики и дашборды | Bash, awk, Prometheus, Grafana |
+| [sql-postgresql-practice](https://github.com/aminalkobaili-bash/sql-postgresql-practice) | 10 модулей: JOIN, CTE, DML, индексы и `EXPLAIN ANALYZE`, ограничения, уровни изоляции транзакций | PostgreSQL |
 
-## 🧠 Что здесь происходит
+## Contacts
 
-```bash
-while (alive) {
-  learn("linux");
-  break("network");
-  debug("why it doesn't work");
-  google("same problem 1000 times");
-}
-```
-
----
-
-## 🚀 Мой путь
-
-- 🐧 Linux — уже не боюсь `sudo`
-- 🧠 SQL — пишу запросы, которые иногда даже работают
-- 🌐 Networking — понимаю, почему `ping` не всегда спасает
-- 📊 Monitoring — люблю смотреть на графики и делать вид, что понимаю
-- ⚙️ Bash — автоматизирую всё, что можно… и что нельзя
-
----
-
-## 📂 Проекты
-
-```bash
-📦 linux-administration-basics
-📦 linux-networking-lab
-📦 linux-system-monitoring
-📦 sql-database-practice
-```
-
-👉 Да, я действительно это всё делал сам 😅
-
----
-
-## 🛠️ Стек технологий
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,postgresql,docker,git,github" />
-</div>
-
----
-
-## 💀 Мои любимые ошибки
-
-- ❌ "почему сервер не отвечает"
-- ❌ "я же ничего не менял"
-- ❌ "оно работало вчера"
-- ❌ "а это точно тот порт?"
-
----
-
-## 🧠 Soft Skills (почти)
-
-- 🔍 Умею гуглить быстрее, чем думаю  
-- 🧱 Ломаю → Чиню → Повторяю  
-- ☕ Работаю на кофе и боли  
-- 🧘 Спокойно отношусь к ошибке `permission denied`  
-
----
-
-## 🎯 Цель
-
-```bash
-become(devops_engineer);
-salary++;
-stress--;
-```
-
----
-
-<p align="center">🔥 Я не идеален, но я деплою 🔥</p>
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=red)](mailto:amin.alkobaili@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/warex26)
